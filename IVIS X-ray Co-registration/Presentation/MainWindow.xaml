@@ -1,0 +1,14 @@
+﻿<Window x:Class="IVIS_X_ray_Co_registration.Presentation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IVIS_X_ray_Co_registration"
+        xmlns:reactiveUi="http://reactiveui.net"
+        mc:Ignorable="d"
+        Title="IVIS X-ray Co-Registration Tool" MinHeight="650" MinWidth="550"
+        ResizeMode="CanResize" SizeToContent="WidthAndHeight">
+    <DockPanel LastChildFill="True">
+        <reactiveUi:ViewModelViewHost Name="Host" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" />
+    </DockPanel>
+</Window>
