@@ -1,0 +1,88 @@
+*** ClickNumber:	PKI20171113184442
+ClickInfoType:	SingleClickAnalysis
+
+*** photographic image:	photograph.TIF
+Acquisition Date:	Monday, November 13, 2017
+Acquisition Time:	18:44:43
+Acquisition Seconds:	3593461483
+Pixel Width:	1
+Pixel Height:	1
+Binning Factor:	1
+Image Units:	counts
+f Number:	6
+Field of View:	10
+Filter Position:	1
+Emission filter:	Open
+Exposure Time Sec:	0.2
+Object radius:	0
+Subject size:	0
+Error Wave:	No Error
+
+*** x-ray image:	x-ray.TIF
+Acquisition Date:	Monday, November 13, 2017
+Acquisition Time:	18:45:53
+Acquisition Seconds:	3593461553
+Pixel Width:	1
+Pixel Height:	1
+Binning Factor:	1
+f Number:	4
+Field of View:	10
+Read Bias Level:	0
+X-ray tube voltage:	40
+X-ray tube plate current:	300
+X-ray tube filter:	in
+Exposure Time Sec:	33.4
+Large animal x-rayed:	No
+Imaging Mode:	High Resolution
+X-ray absorption conversion:	0
+x-ray serial number:	N/A
+x-ray firmware version:	N/A
+X-ray Reference Height:	0
+
+*** User Label Name Set:	Living Image Universal
+User:	
+Group:	
+Experiment:	X-ray check
+Comment1:	
+Comment2:	
+Time Point:	
+Animal Number:	
+Animal Strain:	
+Animal Model:	
+Sex:	
+View:	
+Cell Line:	
+Reporter:	
+Treatment:	
+Luc Injection Time:	
+IACUC Number:	
+
+*** User Input:	
+User ID:	PKI
+Display Type:	Overlay
+User:	
+Group:	
+Experiment:	
+Comment1:	
+Comment2:	
+Time Point:	
+Animal Number:	
+Animal Strain:	
+Animal Model:	
+Sex:	
+View:	
+Cell Line:	
+Reporter:	
+Treatment:	
+Luc Injection Time:	
+IACUC Number:	
+Displayed Key Choices:	Experiment;Comment1;Comment2;Animal Number;Animal Strain;Sex;
+
+*** ROIs:	
+
+*** Tags:	 
+
+*** Comments:	 
+
+
+

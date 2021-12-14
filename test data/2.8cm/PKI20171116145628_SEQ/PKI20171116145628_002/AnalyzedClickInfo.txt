@@ -1,0 +1,88 @@
+*** ClickNumber:	PKI20171116145628_002
+ClickInfoType:	SingleClickAnalysis
+
+*** photographic image:	photograph.TIF
+Acquisition Date:	Thursday, November 16, 2017
+Acquisition Time:	15:01:00
+Acquisition Seconds:	3593707260
+Pixel Width:	1
+Pixel Height:	1
+Binning Factor:	1
+Image Units:	counts
+f Number:	8
+Field of View:	15
+Filter Position:	1
+Emission filter:	Open
+Exposure Time Sec:	0.2
+Object radius:	0
+Subject size:	0
+Error Wave:	No Error
+
+*** x-ray image:	x-ray.TIF
+Acquisition Date:	Thursday, November 16, 2017
+Acquisition Time:	15:02:18
+Acquisition Seconds:	3593707338
+Pixel Width:	1
+Pixel Height:	1
+Binning Factor:	1
+f Number:	2
+Field of View:	15
+Read Bias Level:	0
+X-ray tube voltage:	40
+X-ray tube plate current:	300
+X-ray tube filter:	in
+Exposure Time Sec:	6.5
+Large animal x-rayed:	No
+Imaging Mode:	Mouse
+X-ray absorption conversion:	1
+x-ray serial number:	N/A
+x-ray firmware version:	N/A
+X-ray Reference Height:	0
+
+*** User Input:	
+User ID:	PKI
+Display Type:	Overlay
+User:	
+Group:	
+Experiment:	
+Comment1:	
+Comment2:	
+Time Point:	
+Animal Number:	
+Animal Strain:	
+Animal Model:	
+Sex:	
+View:	
+Cell Line:	
+Reporter:	
+Treatment:	
+Luc Injection Time:	
+IACUC Number:	
+Displayed Key Choices:	Experiment;Comment1;Comment2;Animal Number;Animal Strain;Sex;
+
+*** User Label Name Set:	Living Image Universal
+User:	
+Group:	
+Experiment:	Clean up the glue in coreg hole
+Comment1:	
+Comment2:	
+Time Point:	
+Animal Number:	
+Animal Strain:	
+Animal Model:	
+Sex:	
+View:	
+Cell Line:	
+Reporter:	
+Treatment:	
+Luc Injection Time:	
+IACUC Number:	
+
+*** ROIs:	
+
+*** Tags:	 
+
+*** Comments:	 
+
+
+

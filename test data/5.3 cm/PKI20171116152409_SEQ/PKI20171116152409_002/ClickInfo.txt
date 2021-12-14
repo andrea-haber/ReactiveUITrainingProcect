@@ -1,0 +1,761 @@
+*** ClickNumber:	PKI20171116152409_002
+ClickInfoType:	RawData
+Living Image Version:	4.6.19764 (Oct 10 2017)
+Modified Since Saved:	0
+Sequence ID:	PKI20171116152409_SEQ
+ClickNumber Index:	2
+ClickNumbers in Sequence:	3
+
+*** User Label Name Set:	Living Image Universal
+User:	
+Group:	
+Experiment:	
+Comment1:	
+Comment2:	
+Time Point:	
+Animal Number:	
+Animal Strain:	
+Animal Model:	
+Sex:	
+View:	
+Cell Line:	
+Reporter:	
+Treatment:	
+Luc Injection Time:	
+IACUC Number:	
+
+*** User Input:	
+User ID:	PKI
+Display Type:	Overlay
+User:	
+Group:	
+Experiment:	
+Comment1:	
+Comment2:	
+Time Point:	
+Animal Number:	
+Animal Strain:	
+Animal Model:	
+Sex:	
+View:	
+Cell Line:	
+Reporter:	
+Treatment:	
+Luc Injection Time:	
+IACUC Number:	
+Displayed Key Choices:	User;Group;Experiment;Comment1;Comment2;
+
+*** Analysis User Input:	
+Comment2:	
+
+*** photographic image:	photograph.TIF
+Acquisition Date:	Thursday, November 16, 2017
+Acquisition Time:	15:28:49
+Acquisition Seconds:	3593708929
+Pixel Width:	1
+Pixel Height:	1
+Binning Factor:	1
+Image Units:	counts
+f Number:	8
+Field of View:	15
+Filter Position:	1
+Emission filter:	Open
+Exposure Time Sec:	0.2
+Object radius:	0
+Subject size:	0
+Error Wave:	No Error
+
+*** x-ray image:	x-ray.TIF
+Acquisition Date:	Thursday, November 16, 2017
+Acquisition Time:	15:30:07
+Acquisition Seconds:	3593709007
+Pixel Width:	1
+Pixel Height:	1
+Binning Factor:	1
+f Number:	2
+Field of View:	15
+Read Bias Level:	0
+X-ray tube voltage:	50
+X-ray tube plate current:	240
+X-ray tube filter:	in
+Exposure Time Sec:	6.5
+Large animal x-rayed:	No
+Imaging Mode:	Large Animal
+X-ray absorption conversion:	1
+x-ray serial number:	N/A
+x-ray firmware version:	N/A
+
+*** Camera System Info:	
+#################################################################
+#	IVIS Configuration
+Camera Info File Version Number:	:	1.0
+#################################################################
+
+Camera System ID:	IS1416N6574
+Camera System alias:	IS1416N6574
+
+System Configuration:	IVIS 50
+
+USB I/O BOARD:	yes
+Motor Board Type:	NewAge
+
+#####################################################################
+#	Specific Settings for Andor Camera Heads	VN 06/07/2008
+#####################################################################
+
+Camera System Info:	Andor Newton
+Camera Type:	Andor,iKon
+Camera CCD Type:	Dz936r
+
+Camera Serial Number:	CCD-10444
+
+Andor Photo ADC Speed Index:	2
+Andor Photo Preamp Gain Index:	2
+Andor Photo ADC Channel:	0
+
+Andor Lumin ADC Speed Index:	3
+Andor Lumin Preamp Gain Index:	2
+Andor Lumin ADC Channel:	0
+
+Andor Fluor ADC Speed Index:	2
+Andor Fluor Preamp Gain Index:	2
+Andor Fluor ADC Channel:	0
+
+Andor Vertical Shift Speed:	1
+
+USB I/O Board:	yes
+
+Camera CCD Temperature:	-90
+Temperature Lock Range:	5
+
+Background Purge Age:	3
+
+Read Bias Lower Limit:	0
+Read Bias Upper Limit:	3000
+
+Dark Charge Outlier Limit:	50
+
+Image Rotation:	0
+Image Transpose:	no
+
+CCD Saturation Level:	61000
+
+#####################################################################
+#       Chip Reader Configuration                      JK 07/12/2017
+###########################################################/##########
+
+Chip-Reader:	No
+Chip-Reader Type:	PharmaSeq
+Chip-Reader Port:	5
+Chip-Reader Emulation:	No
+
+
+#####################################################################
+#	Serial Port Configuration 			VN 07/26/2010
+#		Boot Loader: 		COM 6
+#		Xray controller com port: 8
+#		Infusion Pump:		COM 10
+#####################################################################
+
+Bootloader COM port:	6
+Xray controller com port:	8
+# Infusion Pump Port: 10
+
+#####################################################################
+#	Optional parameters
+#####################################################################
+
+Removable Filter Wheel Capable:	no
+Zoom Lens Support:	no
+
+#####################################################################
+# 	Stage temperature controller Settings		yaw  5/6/14
+#####################################################################
+
+Stage demand temperature:	20
+Stage demand temperature offset:	5
+Stage Temperature Offset:	-5
+
+#####################################################################
+# 	Infusion Pump Settings
+#####################################################################
+
+#Infusion Pump Installed:	Harvard PDP 2000
+#Infusion Pump Model:	44
+
+#####################################################################
+# 	Accessories
+#####################################################################
+
+VIC Support:	no
+VIC Calibration Factor:	1.2
+
+#####################################################################
+#	Column and Pixel Defects		         yaw  5/6/14
+#####################################################################
+
+# CCDmap: Y, start X, end X, Y, start X, end X,...-1, X, start Y, end Y, X, start Y, end Y,...-1, Y_val1, X_val1, Y_val2, x_val2,...-1,0,0
+
+CCDMap:	1024,0,2047,66,625,626,-1,-1,65,626,1533,291,1532,291,1945,1036,-1, 0, 0
+
+#####################################################################
+#	Default control values
+#####################################################################
+
+Photographic fstop:	6
+Luminescent fstop:	1
+
+Photographic binning:	2
+Luminescent binning:	8
+
+Zoom lens minimum fstop:	2
+
+#####################################################################
+#	Filters
+#	EM Filter Names Located:C:\Program Files\Caliper Life Sciences\Living Image\emfilters
+#	EM Filter Position 1: should be entered in .xem file
+#	Numerical Equivalent (Central Wavelegth) for Standard Filter Set
+#####################################################################
+
+#GFP	=	545
+#DsRed	=	612.5
+#Cy5.5	=	732.5
+#ICG 	=	842.5
+
+#####################################################################
+# 	EX Filter Position 1: must always be labeled "Block"
+#####################################################################
+
+EX Filter Position 1 label:	block
+EX Filter Position 2 label:	420
+EX Filter Position 3 label:	440
+EX Filter Position 4 label:	460
+EX Filter Position 5 label:	480
+EX Filter Position 6 label:	500
+EX Filter Position 7 label:	520
+EX Filter Position 8 label:	540
+EX Filter Position 9 label:	560
+EX Filter Position 10 label:	580
+EX Filter Position 11 label:	600
+EX Filter Position 12 label:	620
+EX Filter Position 13 label:	640
+EX Filter Position 14 label:	660
+EX Filter Position 15 label:	680
+EX Filter Position 16 label:	700
+EX Filter Position 17 label:	720
+EX Filter Position 18 label:	740
+EX Filter Position 19 label:	760
+EX Filter Position 20 label:	780
+EX Filter Position 21 label:	block2
+EX Filter Position 22 label:	block3
+
+
+#####################################################################
+#	Generic Coeff. Used for Bandwidth Overlap
+# 	Values: Central Wave, Bandwidth
+#####################################################################
+
+Spectral Imaging Excitation 420:	420.00,20.00
+Spectral Imaging Excitation 440:	440.00,20.00
+Spectral Imaging Excitation 460:	460.00,20.00
+Spectral Imaging Excitation 480:	480.00,20.00
+Spectral Imaging Excitation 500:	500.00,20.00
+Spectral Imaging Excitation 520:	520.00,20.00
+Spectral Imaging Excitation 540:	540.00,20.00
+Spectral Imaging Excitation 560:	560.00,20.00
+Spectral Imaging Excitation 580:	580.00,20.00
+Spectral Imaging Excitation 600:	600.00,20.00
+Spectral Imaging Excitation 620:	620.00,20.00
+Spectral Imaging Excitation 640:	640.00,20.00
+Spectral Imaging Excitation 660:	660.00,20.00
+Spectral Imaging Excitation 680:	680.00,20.00
+Spectral Imaging Excitation 700:	700.00,20.00
+Spectral Imaging Excitation 720:	720.00,20.00
+Spectral Imaging Excitation 740:	740.00,20.00
+Spectral Imaging Excitation 760:	760.00,20.00
+Spectral Imaging Excitation 780:	780.00,20.00
+
+#####################################################################
+# 	EM Filter Position 1: must always be labeled "Open"
+#####################################################################
+
+EM Filter Position 1 label:	open
+EM Filter Position 2 label:	520
+EM Filter Position 3 label:	570
+EM Filter Position 4 label:	620
+EM Filter Position 5 label:	670
+EM Filter Position 6 label:	710
+EM Filter Position 7 label:	790
+EM Filter Position 8 label:	845
+
+#################################################################
+#       Emission Filters                            11/6/17
+# 	Information for Bandwidth Overlap Check
+#	Values are:Central Wave, Bandwidth, Transmission
+#################################################################
+
+Spectral Imaging Filter 520:	527.44, 39.70, 0.9816
+Spectral Imaging Filter 570:	572.29, 40.53, 0.9811
+Spectral Imaging Filter 620:	622.29, 39.86, 0.9868
+Spectral Imaging Filter 670:	671.84, 40.37, 0.999
+Spectral Imaging Filter 710:	711.89, 40.14, 0.996
+Spectral Imaging Filter 790:	792.94, 39.92, 0.9958
+Spectral Imaging Filter 845:	848.5, 40.18, 0.9925
+
+#####################################################################
+#	FOVs
+#####################################################################
+
+Shelf Position A FOV:	10
+Shelf Position B FOV:	15
+Shelf Position C FOV:	22.5
+
+FOV clip Level:	0
+Fluorescence FOV Clip Level:	5
+
+#####################################################################
+#	Filter Wheel Alignment				yaw  5/7/14
+#####################################################################
+
+EM Filter Wheel Rotation Steps:	18799
+EM Filter Wheel Position 1 Steps:	170
+EM Filter Wheel Positions Per Wheel:	5
+
+EM Filter2 Wheel Rotation Steps:	18798
+EM Filter2 Wheel Position 1 Steps:	410
+
+EX Filter Wheel Rotation Steps:	800
+EX Filter Wheel Position 1 Steps:	788
+EX Filter Wheel Positions per Wheel:	22
+
+#####################################################################
+#	Shelf Parameters				yaw  5/7/14
+#####################################################################
+
+Shelf Steps per mm:	629.92
+
+Shelf Position A steps:	243500
+Shelf Position B steps:	190948
+Shelf Position C steps:	107300
+
+Shelf Position Soft Limit:	253600
+Shelf Position Hard Limit:	254000
+
+#####################################################################
+#	Lens and f-stop Parameters			 7/10/17
+#####################################################################
+
+#normal Lens position
+Lens Position A steps:	5800
+Lens Position B steps:	8740
+Lens Position C steps:	10680
+
+#Elevate focus targe by 7.5mm for x-ray coregistration cal
+#Lens Position A steps: 5320
+#Lens Position B steps:8600
+#Lens Position C steps: 10610
+
+#Elevate focus targe by 16.3mm for x-ray3 coregistration cal
+#Lens Position C steps: 10520
+
+
+
+Lens Position Soft Limit:	11300
+Lens Position Hard Limit:	11500
+
+Lens fstop 1 steps:	10
+Lens fstop 2 steps:	870
+Lens fstop 4 steps:	1220
+Lens fstop 6 steps:	1330
+Lens fstop 8 steps:	1380
+
+Lens fstop Soft Limit:	1380
+
+#####################################################################
+#	x-ray Parameters				xx xx/xx/20xx
+#####################################################################
+
+Xray Controller:	yes
+
+Xray Tube Serial Number:	xxx
+Xray Controller Serial Number:	xxx
+
+Scintillator Manufacture:	PKI
+
+Scintillator Imaging steps:	19350
+Scintillator Soft Limit:	19900
+Scintillator Hard Limit:	19900
+
+Scintillator Setup offset:	35000
+
+Scintillator Slide Steps per mm:	2519.69
+Scintillator Slide Position Soft Limit:	109000
+Scintillator Slide Position hard Limit:	111000
+
+#####################################################################
+#	X-ray (2.8CM Height) Parameters			HG 7/31/17
+#####################################################################
+
+X-ray energy 1 label:	Mouse, 40, 300, in
+X-ray energy 2 label:	Large Animal, 50, 240, in
+X-ray energy 3 label:	Specimen, 28, 300, out
+
+Motor Steps for x-ray stage Position A:	-25953
+Motor Steps for x-ray stage Position B:	-25953
+Motor Steps for x-ray stage Position C:	-25953
+
+#normal
+Lens x-ray Position A motor steps:	-20
+Lens x-ray Position B motor steps:	-30
+Lens x-ray Position C motor steps:	-10
+
+#Elevate focus target by 7.5mm
+#Lens x-ray Position A motor steps:	460
+#Lens x-ray Position B motor steps:	110
+#Lens x-ray Position C motor steps:	60
+
+x-ray stage position factor A:	0.417
+x-ray stage position factor B:	0.325
+x-ray stage position factor C:	0.114
+
+x-ray scintillator position A:	95500
+x-ray scintillator position B:	69200
+x-ray scintillator position C:	27300
+
+x-ray energy factor Animal:	1.0
+#x-ray energy factor mouse:	1.0
+x-ray energy factor Specimen:	1.2
+
+
+#####################################################################
+#	X-ray2 (5.3CM Height) Parameters		HG  6/30/17
+#####################################################################
+
+X-ray2 energy 2 label:	Large Animal, 50, 240, in
+X-ray2 energy 3 label:	Specimen, 28, 300, out
+
+Lens x-ray2 Position A motor steps:	-20
+Lens x-ray2 Position B motor steps:	-30
+Lens x-ray2 Position C motor steps:	-10
+
+Motor Steps for x-ray2 stage Position A:	-36953
+Motor Steps for x-ray2 stage Position B:	-36897
+Motor Steps for x-ray2 stage position C:	-36449
+
+x-ray2 stage position factor A:	0.417
+x-ray2 stage position factor B:	0.325
+x-ray2 stage position factor C:	0.114
+
+x-ray2 scintillator position A:	95500
+x-ray2 scintillator position B:	69200
+x-ray2 scintillator position C:	27300
+
+x-ray2 energy factor Animal:	1.0
+x-ray2 energy factor Specimen:	1.07
+
+
+#####################################################################
+#	X-ray3 (5.3CM Height) Parameters		 XX  10/10/17
+#####################################################################
+
+X-ray3 energy 1 label:	Mouse, 40, 300, in
+X-ray3 energy 2 label:	Large Animal, 50, 240, in
+
+#normal
+#Lens x-ray3 Position C motor steps:	-10
+
+#Elevate focus target by 16.3mm
+Lens x-ray3 Position C motor steps:	150
+
+Motor Steps for x-ray3 stage position C:	-36449
+
+x-ray3 stage position factor C:	0.114
+
+x-ray3 scintillator position C:	27300
+
+x-ray3 energy factor Animal:	1.0
+x-ray3 energy factor Specimen:	1.07
+
+
+#####################################################################
+#	X-ray4 (High Resolution) Parameters		 yaw  5/13/14
+#####################################################################
+
+X-ray4 energy 1 label:	Mouse, 40, 300, in
+X-ray4 energy 2 label:	Large Animal, 50, 240, in
+X-ray4 energy 3 label:	Specimen, 28, 300, out
+
+#normal
+Lens x-ray4 Position A motor steps:	-20
+
+#Elevate focus target by 7.5mm
+#Lens x-ray4 Position A motor steps:	460
+
+Motor Steps for x-ray4 stage Position A:	-252949
+
+x-ray4 scintillator position A:	95500
+
+x-ray4 stage position factor A:	0.417
+
+x-ray4 energy factor Animal:	1.0
+x-ray4 energy factor Specimen:	1.07
+
+#####################################################################
+# 	X-ray Resizing Coefficients: a, b, c
+#	calibrated at subject height = 0
+# 	a: scaling, b: x-offset, c: y-offset           7/7/17
+#####################################################################
+
+Xray Resizing Coef at FOV 10:	0.935, -2.0, 0.0
+Xray Resizing Coef at FOV 15:	0.923, -2.0, 0.0
+Xray Resizing Coef at FOV 22.5:	0.892, -1.0, 0.0
+
+Xray2 Resizing Coef at FOV 10:	0.906, -2.0, 1.0
+Xray2 Resizing Coef at FOV 15:	0.889, -2.0, 1.0
+Xray2 Resizing Coef at FOV 22.5:	0.846, -2.0, 0.0
+
+Xray3 Resizing Coef at FOV 22.5:	0.927, 0.0, 0.0
+#Xray3 Resizing Coef at FOV 22.5:	0.876, -2, -4
+
+Xray4 Resizing Coef at FOV 10:	0.309, -22, 5.0
+#Xray4 Resizing Coef at FOV 10:    1.0, -22, 5.0
+
+
+#####################################################################
+# 	Motor speeds					 VN 07/28/2017
+#		F=initial speed
+#		R=top speed
+#		S=acceleration
+#		H=homing speed
+#####################################################################
+
+Lens Motor Speed F:	5
+Lens Motor Speed R:	20
+Lens Motor Speed S:	150
+Lens Motor Speed H:	15
+
+EM Filter Motor Speed F:	5
+EM Filter Motor Speed R:	70
+EM Filter Motor Speed S:	150
+EM Filter Motor Speed H:	10
+
+Shelf Motor Speed F:	10
+Shelf Motor Speed R:	50
+Shelf Motor Speed S:	50
+Shelf Motor Speed H:	50
+
+Lens fstop Motor Speed F:	5
+Lens fstop Motor Speed R:	15
+Lens fstop Motor Speed S:	100
+Lens fstop Motor Speed H:	15
+
+EX Filter Motor Speed F:	1
+EX Filter Motor Speed R:	2
+EX Filter Motor Speed S:	2
+EX Filter Motor Speed H:	2
+
+Scintillator Motor Speed F:	5
+Scintillator Motor Speed R:	25
+Scintillator Motor Speed S:	5
+Scintillator Motor Speed H:	18
+
+Scintillator Slide Motor Speed F:	10
+Scintillator Slide Motor Speed R:	60
+Scintillator Slide Motor Speed S:	30
+Scintillator Slide Motor Speed H:	30
+
+#####################################################################
+#	Hardware Interface Configuration	        VN 05/07/2009
+#####################################################################
+
+Lens Motor Driver Number:	0
+Filter Motor Driver Number:	2
+Shelf Motor Driver Number:	4
+Lens fstop Motor Driver Number:	1
+EX Filter Motor Driver Number:	3
+Scintillator Motor Driver Number:	5
+EM Filter2 Motor Driver Number:	6
+Scintillator Slide Motor Driver Number:	7
+
+Fiber Source Toggle NI Channel:	5
+Fiber source intensity control NI channel:	0
+
+Shelf Pot Monitor NI Channel:	4
+Coldfinger Heater Resistor Monitor NI Channel:	0
+Lights Voltage Monitor NI Channel:	5
+Darkbox Lights On Control NI Channel:	0
+Darkbox Door Entry LED NI Channel:	4
+Darkbox Door Open Monitor NI Channel:	2
+Motor Board Hardware Reset NI Channel:	1
+
+LED Source Selector NI Channel:	3
+Lights Control Selector NI Channel:	3
+Lights Control Channel:	1
+LED Voltage Monitor NI Channel:	5
+Lights Voltage Monitor NI Channel:	5
+Lights Control Polarity:	1
+
+#####################################################################
+#	Photo - Lighting			        yaw  5/8/14
+#####################################################################
+
+Photo Bias Level:	350
+Minimum Photo Level:	750
+Lighting Test Max Steps:	1
+Lighting Saturation Counts:	70000
+
+Report Photograph Acquisition:	yes
+
+Lights Max DAC Value:	5.0
+Lights Min DAC Value:	2.8
+Photo Image Saturation Level:	70000
+
+
+#LED Calibration Levels: 2.0,2.3,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.9,4.4,4.9
+#LED Calibration Intensities: 0.0001747,0.002463,0.007748,0.02402,0.08065,0.1921,0.3429,0.5141,0.7034,0.8776,0.9251,0.9438,0.9737,0.9885,1
+
+#Autolight calibration used before LED pattern change
+#LED Calibration Levels: 2.0,2.3,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.9,4.4,4.9
+#LED Calibration Intensities: 0.0005146,0.006525,0.0161,0.03743,0.09738,0.1964,0.3168,0.4474,0.6974,0.8599,0.9287,0.9302,0.9325,0.9985,1
+
+#New Auto lights calibration for six LED set
+LED Calibration Levels:	2.0,2.3,2.5,2.6,2.7,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.9,4.4,4.9
+LED Calibration Intensities:	0.0005611,0.004966,0.01426,0.04607,0.1228,0.24,0.3788,0.5302,0.6974,0.8603,0.9301,0.9324,0.934,0.9995,1
+
+#####################################################################
+# 	Reference measurement conditions:
+#	FOV/ExposTime/Bin/Fstop/LightLevel		  11/4/17
+#####################################################################
+
+#f6 auto light cal
+LED Photo Reference Measurement:	C,0.2,2,6,2.56
+LED Photo Reference Ratio FOV A:	6
+LED Photo Reference Ratio FOV B:	4
+
+
+#f8 auto light cal
+#LED Photo Reference Measurement:	C,0.2,2,8,2.62
+#LED Photo Reference Ratio FOV A:	5.0
+#LED Photo Reference Ratio FOV B: 	3.0
+
+#####################################################################
+#	Fluorescence
+#####################################################################
+
+Fluorescence kit installed:	yes
+
+Fluorescent lamp high voltage:	4.7
+Fluorescent lamp low voltage:	2.6
+
+#####################################################################
+#	ND Factors
+#####################################################################
+
+
+ND Factor for 420:	0.001083
+ND Factor for 440:	0.001018
+ND Factor for 460:	0.001006
+ND Factor for 480:	0.000993
+ND Factor for 500:	0.001005
+ND Factor for 520:	0.001015
+ND Factor for 540:	0.000957
+ND Factor for 560:	0.001031
+ND Factor for 580:	0.001042
+ND Factor for 600:	0.001051
+ND Factor for 620:	0.001052
+ND Factor for 640:	0.001060
+ND Factor for 660:	0.001066
+ND Factor for 680:	0.001085
+ND Factor for 700:	0.001086
+ND Factor for 720:	0.001102
+ND Factor for 740:	0.001122
+ND Factor for 760:	0.001150
+ND Factor for 780:	0.001172
+
+
+#####################################################################
+#	Flat-field Correction 5th order
+# 	Coefficients:k0,k1,k2,k3,k4 in ff(r) = k0 + k1*r + k2*r^2 + k3*r^3 + k4*r^4
+# 	Coordinates for CCD chip offset: x0,y0
+# 	Format is:k0,k1,k2,k3,k4,x0,y0
+#	XFFD: D                                    yaw  5/7/14
+#####################################################################
+
+Shelf Position A FF5 f/1 Coefs:	1.002465,-0.006743,-0.021305,0.004139,-0.000292,-0.059726,0.168107
+Shelf Position A FF5 f/2 Coefs:	0.990888,0.003750,-0.014438,0.002186,-0.000143,-0.075337,0.098085
+Shelf Position A FF5 f/4 Coefs:	0.991874,-0.005273,-0.009469,0.001074,-0.000060,-0.097965,0.203323
+
+Shelf Position B FF5 f/1 Coefs:	0.989080,0.009703,-0.015023,0.002241,-0.000116,-0.057245,-0.049480
+Shelf Position B FF5 f/2 Coefs:	0.998760,-0.017233,-0.001410,0.000056,-0.000001,-0.118197,0.389918
+Shelf Position B FF5 f/4 Coefs:	1.001009,-0.020396,-0.000476,-0.000029,0.000001,-0.125382,0.414543
+
+Shelf Position C FF5 f/1 Coefs:	0.999728,-0.003924,-0.003963,0.000461,-0.000020,-0.139178,0.468996
+Shelf Position C FF5 f/2 Coefs:	1.015160,-0.015083,-0.000780,0.000101,-0.000005,-0.200224,0.925078
+Shelf Position C FF5 f/4 Coefs:	1.014112,-0.013995,-0.001095,0.000130,-0.000005,-0.248486,0.899606
+
+
+#####################################################################
+# 	Absolute Light Intensity Calibration	    	 11-9-17
+#	Calibration units:p/s
+#
+#	XLS-4: 182
+#	Flux: 3.38e8 p/s
+#####################################################################
+
+
+Coef C-ccd at FOV 22.5, f1:	6.712E+05
+Coef C-ccd at FOV 15, f1:	6.944E+05
+Coef C-ccd at FOV 10, f1:	7.661E+05
+Coef C-ccd at FOV 22.5, f2:	2.665E+06
+Coef C-ccd at FOV 15, f2:	2.783E+06
+Coef C-ccd at FOV 10, f2:	2.965E+06
+Coef C-ccd at FOV 22.5, f4:	1.086E+07
+Coef C-ccd at FOV 15, f4:	1.114E+07
+Coef C-ccd at FOV 10, f4:	1.185E+07
+Coef C-ccd at FOV 22.5, f8:	3.866E+07
+Coef C-ccd at FOV 15, f8:	3.960E+07
+Coef C-ccd at FOV 10, f8:	4.227E+07
+
+Coef C-ccd at FOV 22.5, f6:	2.460E+07
+Coef C-ccd at FOV 15, f6:	2.510E+07
+Coef C-ccd at FOV 10, f6:	2.650E+07
+
+
+Allow Acquire & Store:	yes
+
+#################################################################
+#	Multi-View Imager Control Settings
+# The USB Port Name: Mouse Spinner Control
+#################################################################
+
+Multi-View Imager:	NO
+Multi-View Imager Emulation:	0
+MVI-2 StepMode:	16
+MVI-2 Holding Current mA:	200
+MVI-2 Running Current mA:	500
+MVI-2 Homing Acceleration steps:	5000
+MVI-2 Homing Velocity steps:	5500
+MVI-2 Acceleration steps:	5000
+MVI-2 Velocity steps:	5500
+
+*** Graph Controls:	
+Overlay:	Overlay
+Reversed:	0
+Color Table:	Grays
+ColorTableIsLog:	0
+Intensity Calibration:	counts
+Calibration Value Per Count:	1
+Brightness:	100
+Gamma:	1.500000
+Alpha Blend:	100
+Rotation:	0
+Background:	1
+Cosmic:	1
+Flat Field:	1
+Color Table Min:	-1
+Color Table Max:	-1
+Raw Color Table Min:	-1
+Raw Color Table Max:	-1
+
+
+

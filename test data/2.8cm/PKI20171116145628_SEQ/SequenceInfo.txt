@@ -1,0 +1,47 @@
+*** Graph Controls:	
+Brightness:	100
+Gamma:	1.500000
+Color Range Mode:	autoEach
+Color Table Min:	0.000000
+Color Table Max:	0.000000
+Color Table:	Grays
+Reversed:	0
+ColorTableIsLog:	0
+Intensity Calibration:	counts
+
+*** Sequence:	PKI20171116145628_SEQ
+Living Image Version:	4.6.19764 (Oct 10 2017)
+Folder On Disk:	
+ClickInfoType:	SingleClickAnalysis
+
+*** ClickNumbers:	
+ClickNumber 1:	PKI20171116145628_001
+ClickNumber 2:	PKI20171116145628_002
+ClickNumber 3:	PKI20171116145628_003
+
+*** User Input:	
+User ID:	PKI
+Display Type:	Single
+
+*** User Label Name Set:	Living Image Universal
+User:	
+Group:	
+Experiment:	
+Comment1:	
+Comment2:	
+Time Point:	
+Animal Number:	
+Animal Strain:	
+Animal Model:	
+Sex:	
+View:	
+Cell Line:	
+Reporter:	
+Treatment:	
+Luc Injection Time:	
+IACUC Number:	
+
+*** ROIs:	
+
+
+
